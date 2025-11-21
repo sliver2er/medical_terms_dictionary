@@ -11,10 +11,8 @@ This dataset links medical terms with their relevant prefixes, roots, and suffix
 
 🔗 https://github.com/glutanimate/wordlist-medicalterms-en
 
-Generation code is available in:
-/scripts/generate_dict.py
+The full dataset is stored as a .jsonl file. Each entry follows this format:
 
-The dataset is stored as a .jsonl file. Each entry follows this format:
 ``` json
 {
     "term": "abetalipoproteinemia",
@@ -29,28 +27,28 @@ The dataset is stored as a .jsonl file. Each entry follows this format:
 
 ---
 
-### File Structure
+### How to use
+
+#### Quizlet
+
+Download the file from this path.
 
 ```
-├── README.md
-├── data
-│   ├── affixes.json
-│   ├── medical-terms.txt
-│   ├── medical_terms_dictionary.jsonl
-│   └── roots.json
-├── requirements.txt
-└── scripts
-    └── generate_dict.py
+/data/quizlet/medical_terms.csv
 ```
+Import the csv file in Quizlet.
+
+#### Anki
+Download the file from this path. 
+*(For korean users, select data/anki/medical_terms_ko.apkg )*
+```
+/data/anki/medical_terms_en.apkg
+```
+Import the apkg file in Anki.
+
 ---
 
-### Future Work
-
-- **Flashcard export (Anki / Quizlet compatible formats)**
-
-    - Provide scripts to convert medical_terms_dictionary.jsonl into formats that can be directly imported into tools like Anki and Quizlet (e.g., CSV, TSV, or custom note types).
-
-    - Allow users to select which fields to include (term, definition, Korean definition, affixes/roots, explanations, etc.) so they can build personalized decks for their own study style.
+### Future Works
 
 - **Web-based medical vocabulary learning & exam management service**
 
@@ -71,4 +69,4 @@ The dataset is stored as a .jsonl file. Each entry follows this format:
 ### Disclaimer
 
 This dataset is provided as-is, with no warranties or guarantees.
-If you find errors or inconsistencies, please open an issue or submit a pull request.
+If you find errors or inconsistencies, please open an issue or submit a pull request. Or if you want more features notice me any time.
