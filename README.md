@@ -7,7 +7,7 @@ A curated dataset for premed and nursing students
 
 Memorizing medical terminology is a core task for many pre-medical and nursing students. While definitions are easy to look up, understanding why a term means what it means—through its affixes and roots—greatly improves memorization, grouping, and long-term retention.
 
-This dataset links medical terms with their relevant prefixes, roots, and suffixes, accompanied by both English and Korean explanations. The relationships were generated automatically using Gemini-2.5-lite based on affix/root lists and the medical term list from the open-source repository below:
+This dataset links medical terms with their relevant prefixes, roots, and suffixes, accompanied by both English and Korean explanations. The relationships were generated automatically using Gemini-2.5-lite based on affix/root lists. The medical term list was fetched from the open-source repository below:
 
 🔗 https://github.com/glutanimate/wordlist-medicalterms-en
 
