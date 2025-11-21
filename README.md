@@ -3,7 +3,7 @@
 
 A curated dataset for premed and nursing students
 
-### Abstract
+## Abstract
 
 Memorizing medical terminology is a core task for many pre-medical and nursing students. While definitions are easy to look up, understanding why a term means what it means—through its affixes and roots—greatly improves memorization, grouping, and long-term retention.
 
@@ -27,7 +27,7 @@ The full dataset is stored as a .jsonl file. Each entry follows this format:
 
 ---
 
-### How to use
+## How to use
 
 #### Quizlet
 
@@ -48,7 +48,7 @@ Import the apkg file in Anki.
 
 ---
 
-### Future Works
+## Future Works
 
 - **Web-based medical vocabulary learning & exam management service**
 
