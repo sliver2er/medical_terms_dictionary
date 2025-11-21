@@ -59,15 +59,15 @@ Import the apkg file in Anki.
 
 - **Web-based medical vocabulary learning & exam management service**
 
-    - [ ] Build a web application on top of this dataset that helps students memorize medical terms more efficiently by grouping them via shared affixes and roots.
+Build a web application on top of this dataset that helps students memorize medical terms more efficiently by grouping them via shared affixes and roots.
 
-    - [ ] Support features such as:
+**Features**
 
-    - [ ] Custom quizzes based on topic, course, or exam date
+- Custom quizzes based on topic, course, or exam date
 
-    - [ ] “Jokbo” (past exam / frequently-tested term) management linked to the term database
+- “Jokbo” (past exam / frequently-tested term) management linked to the term database
 
-    - [ ] Progress tracking, spaced repetition, and error history per user
+- Progress tracking, spaced repetition, and error history per user
 
 - **Long-term goal**: provide an integrated platform where premed and nursing students can manage their term lists, past tests, and daily study schedule in one place.
 
