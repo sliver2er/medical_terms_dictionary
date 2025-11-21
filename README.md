@@ -29,22 +29,29 @@ The full dataset is stored as a .jsonl file. Each entry follows this format:
 
 ## How to use
 
-#### Quizlet
+#### Quizlet(For Korean)
 
 Download the file from this path.
 
 ```
 /data/quizlet/medical_terms.csv
 ```
-Import the csv file in Quizlet.
 
-#### Anki
+Select the terms and make a new vocabulary set. Use ',' as a seperator.
+
+<img width="1406" height="698" alt="image" src="https://github.com/user-attachments/assets/3cf95f0b-dcf8-4ef8-8f38-c9faa35ad7da" />
+
+
+#### Anki(For both ko/en)
 Download the file from this path. 
 *(For korean users, select data/anki/medical_terms_ko.apkg )*
 ```
 /data/anki/medical_terms_en.apkg
 ```
 Import the apkg file in Anki.
+
+<img width="638" height="377" alt="image" src="https://github.com/user-attachments/assets/6444fa76-59f4-4c57-a2bf-563ccec1e952" />
+
 
 ---
 
