@@ -1,6 +1,9 @@
 # Medical Term Relations with Affixes and Roots
----
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+Mozilla
+
+---
 A curated dataset for premed and nursing students
 
 ## Abstract
